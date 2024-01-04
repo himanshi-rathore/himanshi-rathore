@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 # 💫 About Me:
-🌱 I’m currently learning NodeJs<br><br>👨‍💻 All of my projects are available at https://sensational-conkies-aa053e.netlify.app/<br><br>💬 Ask me about ReactJs, Data Structures and Algorithms<br><br>📫 How to reach me himanshi6015@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/141KLXUcCsdco0T1ikkpIxIv55EF7YmD3/view?usp=sharing
+👨‍💻 All of my projects are available at https://sensational-conkies-aa053e.netlify.app/<br><br>💬 Ask me about ReactJs, Data Structures and Algorithms<br><br>📫 How to reach me himanshi6015@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/141KLXUcCsdco0T1ikkpIxIv55EF7YmD3/view?usp=sharing
 
 
 ## 🌐 Socials:
